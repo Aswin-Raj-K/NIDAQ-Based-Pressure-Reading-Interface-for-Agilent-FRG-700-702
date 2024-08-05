@@ -148,10 +148,22 @@
   },
   "active": "b703c91f7a4ea090",
   "lastOpenFiles": [
+    "V3/main.spec",
+    "V3/temp.py",
+    "V3/main.py",
+    "V3/icon.png",
+    "V3",
+    "V2/temp.py",
+    "V2/main.py",
+    "V2",
+    "V1/main.py",
+    "V1",
+    "V4/temp3.py",
+    "V4/temp2.py",
+    "V4/icon.png",
     "Figures/mainwindow.png",
     "README.md",
     "Figures/graph_combine.png",
-    "Figures/graph_split.png",
-    "Figures"
+    "Figures/graph_split.png"
   ]
 }
