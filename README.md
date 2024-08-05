@@ -12,5 +12,12 @@
 The GUI provides a user-friendly interface to efficiently monitor pressure readings from multiple Agilent FRG-700/702 sensors. It ensures accurate data collection and offers flexible options for data visualization and export, making it an essential tool for laboratory and industrial applications.
 
 <p align="center">
+  <img src="Figures/mainwindow.png" width="50%" />
+</p>
+
+The data from multiple sensors can be viewed in the graph window. The graph can be viewed separately or overlaid for comparison.
+
+<p align="center">
+  <img src="Figures/graph_split.png" width="45%" />
   <img src="Figures/graph_combine.png" width="45%" />
 </p>
